@@ -3,8 +3,6 @@
 A full-stack web application designed to provide a clean, intuitive, and visually appealing way to view public holidays and festivals from around the world.  
 This project was built with a focus on modern development practices, performance, and a premium user experience.
 
-**Live Demo** | **API Endpoint**
-
 ---
 
 ## About The Project
@@ -113,7 +111,7 @@ The frontend will be available at **[http://localhost:5173](http://localhost:517
 
 * Holiday and festival data provided by [Calendarific API](https://calendarific.com/).
 * Background video sourced from [Pexels](https://www.pexels.com/).
-* Initial frontend scaffolding assisted by Google’s Gemini.
+* Most of the frontend scaffolding assisted by Google’s Gemini and some of the Backend by ChatGPT.
 
 ---
 
