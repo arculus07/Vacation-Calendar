@@ -1,0 +1,7 @@
+# .gitignore
+
+# Environment variables
+.env
+
+# Python virtual environment
+backend/venv/
